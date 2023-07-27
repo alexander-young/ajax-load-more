@@ -1,3 +1,4 @@
+<?php
 function load_more_posts()
 {
   $next_page = $_POST['current_page'] + 1;
